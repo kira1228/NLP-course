@@ -54,6 +54,12 @@
   - local: chapter4/6
     title: チャプター修了クイズ
     quiz: 4
+    
+- title: 5. 🤗 ハギングフェイスライブラリー'
+  sections:
+    - local: chapter5/1
+      title: イントロダクション
+      
 
 - title: 7. 主要な自然言語処理タスク
   sections:
